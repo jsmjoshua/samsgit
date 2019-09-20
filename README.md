@@ -1,5 +1,5 @@
 ## samspack
-Demon Markup md
+Demo Markup md
 ## Usage
 Install the package using npm :
  npm install is-null-or-empty --save
